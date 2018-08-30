@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Michael Boyle",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://boyle-michael.github.io/images/boyle.jpg",
+    "email": "mdb6@me.com",
+    "phone": "",
+    "website": "https://boyle-michael.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,36 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "boyle-michael",
+        "url": "http://github.com/boyle-michael"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "michael-b-64220bb1",
+        "url": "https://www.linkedin.com/in/michael-b-64220bb1/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Michael__Boy",
+        "url": "http://twitter.com/Michael__Boy"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "ios development",
       "keywords": [
       ]
     },
