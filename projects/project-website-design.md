@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/website.png
+image: images/bounceBoy.png
 title: Personal Website
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
