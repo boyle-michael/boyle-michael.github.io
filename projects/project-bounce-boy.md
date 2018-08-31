@@ -13,12 +13,8 @@ labels:
 summary: I developed a simple iOS game using Xcode on Mac.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+
+<img class="ui image" src="../images/bounceBoy.png">
 
 Bounce Boy is my very first app. It is a simple game where you try to bounce Bounce Boy as many times as possible. Watch out though, it gets progressively harder.
 
