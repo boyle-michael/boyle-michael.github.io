@@ -14,6 +14,7 @@ labels:
 summary: I completed two summer internships at Underwriters Laboratories working on a couple different projects.
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/ul_front.jpg">
 
 My first year at UL, I aided in the development of an internal program used by engineers for data input. I learned how to program in D-script and how to successfully share my changes to the company GitHub repository. In addition to D-script, I learned HTML, CSS, and Javascript. Part of the project required translation of original forms to HTML forms usable by the program. 
 
