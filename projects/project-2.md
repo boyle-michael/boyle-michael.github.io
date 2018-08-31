@@ -1,25 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/ul_logo_300.png
+title: Internship at Underwriters Laboratories
+permalink: projects/UL
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - Git
+  - Drones
+  - Work Experience
+summary: I completed two summer internships at Underwriters Laboratories working on a couple different projects.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+My first year at UL, I aided in the development of an internal program used by engineers for data input. I learned how to program in D-script and how to successfully share my changes to the company GitHub repository. In addition to D-script, I learned HTML, CSS, and Javascript. Part of the project required translation of original forms to HTML forms usable by the program. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+During my second year at UL, I was in charge of programming a drone to perform autonomous security routes. In addition to the security routes, the drone was used to record both standard footage and spherical footage of the campus. The spherical footage was used to create a virtual reality tour of both the inside and outside of the building. After the shots were recorded, it was my responsibility to edit and the various clips using iMovie. 
