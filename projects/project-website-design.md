@@ -17,4 +17,4 @@ summary: A personal website created using a mix of coding and Adobe Dreamweaver.
 
 As a part of a web design class in high school, I created a full fledged website that showcased current and past projects as well as a bio and a few of my interests. The website had 7 pages of content and was published for about a year before I stopped paying for hosting.
 
-Source code <a url:"https://github.com/boyle-michael/boyle-michael.github.io/tree/master/Home">here</a>
+Source code <a href="https://github.com/boyle-michael/boyle-michael.github.io/tree/master/Home">here</a>
