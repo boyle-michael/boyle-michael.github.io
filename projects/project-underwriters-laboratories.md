@@ -16,6 +16,18 @@ summary: I completed two summer internships at Underwriters Laboratories working
 
 <img class="ui image" src="{{ site.baseurl }}/images/ul_front.jpg">
 
-My first year at UL, I aided in the development of an internal program used by engineers for data input. I learned how to program in D-script and how to successfully share my changes to the company GitHub repository. In addition to D-script, I learned HTML, CSS, and Javascript. Part of the project required translation of original forms to HTML forms usable by the program. 
+## Year One
+### The Project
+We worked on revamping an internal project that engineers used for data input and generating safety reports. We created a new method of logging in and keeping track of their projects, we made the UI look more sleek and modern, and we editted HTML files to fit in with the new system.
+### What I Did
+I was primarily in charge of creating a user friendly list of projects for the engineers. Essentially I added a sorting method that would look at the log in information and only show the user their projects instead of everyone's. I also helped transfer many HTML form files. The other interns focussed on making the program look more modern.
+### What I Learned
+I learned how to program in D-script and how to successfully share my changes to the company Git repository. In addition to D-script, I learned HTML, CSS, and Javascript.
 
-During my second year at UL, I was in charge of programming a drone to perform autonomous security routes. In addition to the security routes, the drone was used to record both standard footage and spherical footage of the campus. The spherical footage was used to create a virtual reality tour of both the inside and outside of the building. After the shots were recorded, it was my responsibility to edit and the various clips using iMovie. 
+## Year Two
+### The Project
+We created a program for a drone to preform autonomous security routes. In addition to the security routes, the drone was used to record both standard footage and spherical footage of the campus. The spherical footage was used to create a virtual reality tour of both the inside and outside of the building.
+### What I Did
+My partner and I worked cooperatively to program and record the footage. I did the majority of the video editing while he put together the presentation we gave to the most elite employees on site. 
+### What I Learned
+I learned how to fly and program a DJI Phantom drone, use software meant for spherical videos, and edit bot spherical and standard video formats. I also learned how to work well on a team and in a professional work environment. 
