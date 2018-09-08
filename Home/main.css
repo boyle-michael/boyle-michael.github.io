@@ -1,0 +1,86 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://www.idea11.com.au/wp-content/uploads/2014/11/idea11-homepage-header2.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.about-me {
+  background-color: #f7f7f7;
+  margin-bottom: 13px;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.about-me h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.about-me a {
+  color: #00b0ff;
+}
+
+.about-me-header {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.about-me-header h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.about-me-header p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.my-apps {
+    margin-bottom: 13px;
+    border-bottom: 1px solid #dbdbdb
+}
+
+.my-apps h3 {
+	margin-top: 50px;
+	font-family: inherit;
+}
+
+my-apps img {
+    
+}
+
+.Contact Me {
+    border-top: 1px solid #dbdbdb
+    background-color: #efefef
+    margin-bottom: 13px;
+}
