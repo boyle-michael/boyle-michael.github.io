@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Helping the Community with Tech
+title: Good Answers Need Good Questions
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
