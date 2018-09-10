@@ -24,7 +24,7 @@ I created this game entirely from scratch using Apple's Xcode and the Swift prog
 
 I learned a lot about programming when making this game. I was taking AP Computer Science in my Sophomore year in high school at the time and Swift was the second language I learned (right after Java). I taught myself how to do everything in the project from learning Swift to using Xcode to jumping through the hoops to publish the game. I learned how to test the in-app purchases and ads in a sandbox environment. I even got a little better at graphic design and animations. Creating such a simple game by myself made me really appricate the work companies put into their big title games.
 
-*currently not on the app store*
+*currently not on the app store* 
 
 Source code <a href="https://github.com/boyle-michael/boyle-michael.github.io/tree/master/Bounce%20Boy">here</a>
 
