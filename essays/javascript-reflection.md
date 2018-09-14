@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript: Programmers' Favorite Language?
+title: Javascript Programmers' Favorite Language?
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
