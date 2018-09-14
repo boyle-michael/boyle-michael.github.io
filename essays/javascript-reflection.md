@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Good Answers Need Good Questions
+title: Javascript: Programmers' Favorite Language?
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
-  - StackOverflow
-  - Smart Questions
+  - Javascript 
+  - Web Development
 ---
 
 ## Smarter Questions --> Smarter Answers
