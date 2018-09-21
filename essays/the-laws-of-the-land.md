@@ -23,6 +23,6 @@ While everything I have learned about coding standards and programming is displa
 
 ### The Virtues of Coding Standards
 
-<omg class="ui medium right floated rounded image" src="../images/comic-code.jpg">
+<img class="ui medium right floated rounded image" src="../images/comic-code.jpg">
 
 At first, coding standards are a pain. They appear to slow down your work and the errors they give irritate you to no end. You constantly wonder why their way is better than yours. You finally finish writing something that works and you think you are finished when you remember that you have to go back and fix your spacing. What a drag. But then, one day, it clicks! Coding standards start speeding up your work. They make it look cleaner too. And to top it off, you are learning new, better ways to write your code. All that painful work to get over the learning curve, you discover, is worth it. Now you can ride the roller coaster down into your software development career with beautiful code on demand. Happy coding!
