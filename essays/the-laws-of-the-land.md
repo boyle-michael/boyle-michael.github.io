@@ -17,12 +17,12 @@ I try and I try but no matter how precise I am, the little green check avoids my
 
 ### Learning From Failure (...or partial failure)
 
-<img class="ui big right rounded image" src="../images/SOBad.png">
+<img class="ui medium right floated rounded image" src="/images/green-check.jpg">
 
 While everything I have learned about coding standards and programming is displayed in perfect harmony on the screen, IntelliJ IDEA insists that there are problems with my code. When I make the change, my first thought is, "Well that was dumb, my way worked too." My way did work, it acomplished the job and it was something I understood and could repeat. But the way the editor chose to change it showed me something new. I would have never done it that way. The code is even more concise. It is easier to read. It just plain looks nicer. Thanks to these coding standards, I now know how to do the same thing in two different ways. Even if one is preferred over the other, knowledge is something that is meant to be accumulated. 
 
 ### The Virtues of Coding Standards
 
-<img class="ui big right rounded image" src="../images/SOGood.png">
+<img class="ui big right rounded image" src="../images/comic-code.jpg">
 
-
+At first, coding standards are a pain. They appear to slow down your work and the errors they give irritate you to no end. You constantly wonder why their way is better than yours. You finally finish writing something that works and you think you are finished when you remember that you have to go back and fix your spacing. What a drag. But then, one day, it clicks! Coding standards start speeding up your work. They make it look cleaner too. And to top it off, you are learning new, better ways to write your code. All that painful work to get over the learning curve, you discover, is worth it. Now you can ride the roller coaster down into your software developement career with beautiful code on demand. Happy coding!
