@@ -15,12 +15,12 @@ Making a website is a lot like baking cookies. You have to have all the base con
 
 ### The Easier Way
 
-<img class="ui medium left floated rounded image" src="/images/semantic-ui.png">
+<img class="ui mini left floated rounded image" src="/images/semantic-ui.png">
 
 In web development, Semantic UI is the Costco sized pack of cookie cutters. Every type of cookie cutter is there and can be manipulated to look as desired. The smaller tweaks to the Semantic UI components are like the frosting and sprinkles. They are necessary, because the content is all there, but they add flavor and aesthetic appeal.
 
 ### Plain HTML and CSS
 
-<img class="ui medium right floated rounded image" src="../images/cookie-cutter.jpg">
+<img class="ui small right floated rounded image" src="../images/cookie-cutter.jpg">
 
 Trying to build a website using only plain HTML and CSS is like cutting the dough with dough with a butter knife and spreading the frosting with a toothpick. Eventually, you could get what you want, but it will take forever and the work will not be easy. By adding a UI framework like Semantic UI to the development process, you will not only speed up your work, but you see better results in less time. Simple class manipulations from a pre-existing library and a few easy CSS tweaks can result in professional looking websites with less than a couple hours of work. After working with cookie cutters, it is unlikely that I will ever go back to using a butter knife and toothpick. 
