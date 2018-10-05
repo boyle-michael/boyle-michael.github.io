@@ -15,7 +15,7 @@ Making a website is a lot like baking cookies. You have to have all the base con
 
 ### The Easier Way
 
-<img class="ui tiny right floated rounded image" src="/images/semantic-ui.png">
+<img class="ui tiny left floated rounded image" src="/images/semantic-ui.png">
 
 In web development, Semantic UI is the Costco sized pack of cookie cutters. Every type of cookie cutter is there and can be manipulated to look as desired. The smaller tweaks to the Semantic UI components are like the frosting and sprinkles. They are necessary, because the content is all there, but they add flavor and aesthetic appeal.
 
