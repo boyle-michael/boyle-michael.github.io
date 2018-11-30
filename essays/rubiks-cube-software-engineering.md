@@ -10,7 +10,7 @@ labels:
 
 ## The Best Way to Solve the Rubik's Cube
 
-<img class="ui tiny middle floated rounded image" src="https://store.moma.org/dw/image/v2/BBQC_PRD/on/demandware.static/-/Sites-master-moma/default/dw778fbdec/images/102025_a.jpg?sw=1061&sh=1061&sm=cut">
+<img class="ui small middle floated rounded image" src="https://store.moma.org/dw/image/v2/BBQC_PRD/on/demandware.static/-/Sites-master-moma/default/dw778fbdec/images/102025_a.jpg?sw=1061&sh=1061&sm=cut">
 
 Problems tend to get easier over time. Humans are hardwired to notice patterns that aid us in completing things more efficiently. For example, way back when calculus when people were learning calculus and they discovered what derivatives are, they probably noticed after many attempts that there are rules that shorten the calculation significantly. Similarly, when the Rubik's Cube first came out, no one could Google the answer; there were no robots that solved it using some cleverly design algorithms. Instead, someone fiddled around with it until they solved it. And then they solved it again, and again, and again, until they noticed that they could solve it the same way every single time. Unless a piece was twisted and the Rubik's Cube was unsolvable, the method that was refined over time was sure to get the job done. The moral of the story is: next time you want to solve a Rubik's Cube, don't reinvent the wheel, just look up others did it. 
 
@@ -22,6 +22,6 @@ Like any other problem, Software Engineering followed this same pattern. Some ve
 
 ### My Experience with Design Patterns
 
-<img class="ui tiny left floated rounded image" src="http://www.keytothekingdom.com/KTTK/logo%20gold%20Rg.jpg">
+<img class="ui medium rounded image" src="http://www.keytothekingdom.com/KTTK/logo%20gold%20Rg.jpg">
 
 I started learning to solve the Rubik's Cube when my seventh grade math teacher promised the keys to the kingdom (his guide to solving it) to anyone who could solve one side of the cube. The learning curve was there but I managed, and a few short weeks later, I could confidently solve a Rubik's Cube without the guide. When I started my journey into software engineering, it took me more than a few short weeks of learning before I was ready to even be given instructions on how to use a design pattern. In fact, they are just now being introduced as a topic now that I have been unknowingly using them for weeks. I assume that just like with the Rubik's Cube, I have earned the keys to the kingdom. It is one thing to be able to do something and it is entirely different when you understand it. I now know how the singleton is useful for creating a global instance of something that there should only be one of. Reactive Data is used in my current project to re-run content related to the data that was changed. I better understand the interactions between React, React Router, and MongoDB in my project's MVC design pattern in Meteor. 
