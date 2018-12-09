@@ -12,7 +12,7 @@ labels:
   - IntelliJ IDEA
   - Terminal
 summary: Collaborating with three other students, we created a web app called, UHBazaar. UHBazaar was designed to be a localized marketplace for the UHM community. 
-projecturl: https://uhbazaar.github.io
+projecturl: http://uhbazaar.github.io
 ---
 
 # Table of Contents
