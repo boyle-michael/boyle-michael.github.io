@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bounceBoy.png
 title: UHBazaar
-permalink: https://uhbazaar.github.io
+permalink: projects/uhbazaar
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
