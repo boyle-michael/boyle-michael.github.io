@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uhb-logo.png
 title: UHBazaar
-permalink: http://uhbazaar.github.io
+permalink: url('http://uhbazaar.github.io')
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-09
 labels:
