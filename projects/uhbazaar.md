@@ -11,7 +11,7 @@ labels:
   - Semantic UI React
   - IntelliJ IDEA
   - Terminal
-summary: I developed a simple iOS game using Xcode on Mac.
+summary: Collaborating with three other students, we created a web app called, UHBazaar. UHBazaar was designed to be a localized marketplace for the UHM community. 
 ---
 
 # Table of Contents
