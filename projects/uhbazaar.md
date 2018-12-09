@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/bounceBoy.png
-title: Bounce Boy
+title: UHBazaar
 permalink: https://uhbazaar.github.io
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
