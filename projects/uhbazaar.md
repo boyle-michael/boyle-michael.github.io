@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo.png
+image: images/uhb-logo.png
 title: UHBazaar
 permalink: projects/uhbazaar
 # All dates must be YYYY-MM-DD format!
