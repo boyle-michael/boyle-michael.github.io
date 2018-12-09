@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uhb-logo.png
 title: UHBazaar
-permalink: https://uhbazaar.github.io
+permalink: projects/uhbazaar
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-09
 labels:
@@ -12,6 +12,7 @@ labels:
   - IntelliJ IDEA
   - Terminal
 summary: Collaborating with three other students, we created a web app called, UHBazaar. UHBazaar was designed to be a localized marketplace for the UHM community. 
+projecturl: https://uhbazaar.github.io
 ---
 
 # Table of Contents
