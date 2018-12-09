@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Cookie Cutter of Web Developement
+title: The Cookie Cutter of Web Development
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:

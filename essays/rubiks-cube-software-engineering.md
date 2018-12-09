@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Solving the Rubik's Cube of Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-04
+date: 2018-11-29
 labels:
 - Design Patterns
 ---
