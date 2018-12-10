@@ -71,7 +71,7 @@
       "keywords": [
         "MacOS",
         "Kali Linux",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -84,6 +84,13 @@
       "endDate": "Present",
       "gpa": "4.00",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 222",
+        "ICS 241",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
