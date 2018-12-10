@@ -15,7 +15,7 @@ summary: Collaborating with three other students, we created a web app called, U
 ---
 <img class="ui huge centered rounded image" src="../images/landing-page-with-user.png">
 
-## UHBazaar
+## [UHBazaar](https://uhbazaar.github.io)
  
 UH Bazaar is a Meteor application that aims to provide a localized marketplace for the University of Hawaii at Manoa community, which accommodates buying, selling and trading goods. UH Bazaar aims to provide a comfortable experience for students by keeping the exchanges on campus and between students. With the tides of incoming and outgoing students, whether graduating or just returning home for the summer, there is a wealth of commodity in need of a custom tailored facilitation to manage exchange. To help facilitate secure exchange, UH Bazaar intends to implement the UH CAS login system to enforce student-student interaction, as well as a goods map for convenient navigation on campus.
  
@@ -30,3 +30,11 @@ My main contribution to this app was dealing with the backend and admin function
 ### Takeaways
  
 I learned a lot from this project. Surprisingly, the most important things I learn are not directly related to the coding but instead to the process of creating an app in a team environment. I also learned a lot about working with databases and creating an enticing user interface, but the specifics will always be changing. However, the process and the dynamics of working with others will always be applicable.
+
+#### Take a look!
+
+-[GitHub Page](https://uhbazaar.github.io/)
+
+-[Deployed App](http://uhbazaar.meteorapp.com/)
+
+-[Source Code](https://github.com/uhbazaar/uhbazaar)

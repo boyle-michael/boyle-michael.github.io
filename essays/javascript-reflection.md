@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Atheltic Coding from a Division 1 Athlete
+title: Athletic Coding from a Division 1 Athlete
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-13
 labels:
