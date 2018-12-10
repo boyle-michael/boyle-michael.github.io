@@ -20,6 +20,7 @@ projecturl: http://uhbazaar.github.io
  ## Contributions
  My main contribution to this app was dealing with the backend and admin functionality. I set up the database and what was included in each of the collections that made up the app. We had a total of four collections that included: users, categories, items for sale, and reports. I frequently updated forms to match the schema behind each collection. Most importantly, I created an interface that allows the admin of the site to view, edit, and delete almost all aspects of the site. 
  
+ <img class="ui large rounded image" src="../images/admin-page.png">
+ 
  ## Takeaways
- 
- 
+ I learned a lot from this project. Surprisingly, the most important things I learn are not directly related to the coding but instead to the process of creating an app in a team environment. I also learned a lot about working with databases and creating an enticing user interface, but the specifics will always be changing. However, the process and the dynamics of working with others will always be applicable.
